@@ -542,12 +542,6 @@
          <prop type="lemma" val="[y]"/>
          <prop type="lexlabel" val="kta"/>
       </lexeme>
-      <lexeme id="newlex_fir_">
-         <prop type="gloss" val="[x]"/>
-         <prop type="lang" val="Beja-atmaan"/>
-         <prop type="lemma" val="[y]"/>
-         <prop type="lexlabel" val="fir'"/>
-      </lexeme>
       <lexeme id="newlex__NULL">
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-atmaan"/>
@@ -2613,7 +2607,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir'"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="person" val="Person2"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
@@ -15122,7 +15116,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir'"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -15458,7 +15452,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Common"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir'"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="nonFiniteForm" val="NominalAction"/>
             <prop type="polarity" val="U"/>
             <prop type="pos" val="Verb"/>
@@ -21627,7 +21621,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir'"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
