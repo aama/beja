@@ -57,7 +57,7 @@
       </lexeme>
       <lexeme id="Beja-atmaan-saH">
          <prop type="lang" val="Beja-atmaan"/>
-         <prop type="lexlabel" val="sa`"/>
+         <prop type="lexlabel" val="sa"/>
          <prop type="lemma" val="sá’a"/>
          <prop type="gloss" val="sit"/>
       </lexeme>
@@ -349,7 +349,7 @@
          <prop type="gloss" val="say"/>
          <prop type="lang" val="Beja-atmaan"/>
          <prop type="lemma" val="ni ~ di"/>
-         <prop type="lexlabel" val="ni ~ di"/>
+         <prop type="lexlabel" val="ni-di"/>
          <prop type="pos" val="Verb"/>
       </lexeme>
       <lexeme id="ID733d270b-703d-4a99-8bc7-12289f2c5f7b">
@@ -484,7 +484,7 @@
          <prop type="gloss" val="teacher"/>
          <prop type="lang" val="Beja-atmaan"/>
          <prop type="lemma" val="ústaaz (pl. ustáz)"/>
-         <prop type="lexlabel" val="ústaaz (pl. ustáz)"/>
+         <prop type="lexlabel" val="ústaaz"/>
       </lexeme>
       <lexeme id="IDf1c2abe4-14e8-4d37-af17-30dc9e4b40d1">
          <prop type="conjClass" val="Prefix"/>
@@ -13598,7 +13598,7 @@
                <prop type="token-verbGloss" val="say"/>
             </term>
             <term id="ID546f90e4-071e-44d9-9001-64daf7ac9280">
-               <prop type="lexlabel" val="sa`"/>
+               <prop type="lexlabel" val="sa"/>
                <prop type="token" val="sá’a"/>
                <prop type="token-auxFunction" val="to conitnue to do"/>
                <prop type="token-verbGloss" val="sit"/>
