@@ -515,7 +515,7 @@
          <prop type="gloss" val="go out"/>
          <prop type="lang" val="Beja-atmaan"/>
          <prop type="lemma" val="fira"/>
-         <prop type="lexlabel" val="fir`"/>
+         <prop type="lexlabel" val="fir"/>
          <prop type="pos" val="Verb"/>
       </lexeme>
       <lexeme id="newlex_m-">
@@ -605,7 +605,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -2325,7 +2325,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="person" val="Person2"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
@@ -4224,7 +4224,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="person" val="Person2"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
@@ -7128,7 +7128,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Common"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="number" val="Singular"/>
             <prop type="person" val="Person1"/>
             <prop type="polarity" val="Negative"/>
@@ -9416,7 +9416,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Common"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="nonFiniteForm" val="Participle"/>
             <prop type="number" val="Common"/>
             <prop type="person" val="Common"/>
@@ -9626,7 +9626,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Common"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="number" val="Singular"/>
             <prop type="person" val="Person1"/>
             <prop type="polarity" val="Affirmative"/>
@@ -9772,7 +9772,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -10088,7 +10088,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Common"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="number" val="Singular"/>
             <prop type="person" val="Person1"/>
             <prop type="polarity" val="Negative"/>
@@ -11241,7 +11241,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -11323,7 +11323,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -11742,7 +11742,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -11919,7 +11919,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Masc"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="nonFiniteForm" val="Participle"/>
             <prop type="number" val="Common"/>
             <prop type="person" val="Common"/>
@@ -13906,7 +13906,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -17313,7 +17313,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -19625,7 +19625,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -20492,7 +20492,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Negative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -21390,7 +21390,7 @@
          <common-properties>
             <prop type="conjClass" val="Prefix"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="polarity" val="Affirmative"/>
             <prop type="pos" val="Verb"/>
             <prop type="rootClass" val="CiCH"/>
@@ -21494,7 +21494,7 @@
             <prop type="conjClass" val="Prefix"/>
             <prop type="gender" val="Masc"/>
             <prop type="lang" val="Beja-atmaan"/>
-            <prop type="lexlabel" val="fir`"/>
+            <prop type="lexlabel" val="fir"/>
             <prop type="nonFiniteForm" val="Participle"/>
             <prop type="number" val="Common"/>
             <prop type="person" val="Common"/>
