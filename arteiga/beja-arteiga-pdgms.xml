@@ -168,15 +168,6 @@
          <prop type="lemma" val="šifiì-"/>
          <prop type="gloss" val="drink milk"/>
       </lexeme>
-      <lexeme id="Beja-arteiga-ad1">
-         <prop type="conjClass" val="Suffix"/>
-         <prop type="derivedStem" val="B"/>
-         <prop type="derivedStemAug" val="Simple"/>
-         <prop type="lexlabel" val="ad1"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="?ad-"/>
-         <prop type="gloss" val="tremble"/>
-      </lexeme>
       <lexeme id="Beja-arteiga-dmy">
          <prop type="conjClass" val="Prefix"/>
          <prop type="derivedStem" val="S"/>
@@ -485,15 +476,6 @@
          <prop type="lemma" val="kitb-a"/>
          <prop type="gloss" val="write"/>
       </lexeme>
-      <lexeme id="Beja-arteiga-ad2">
-         <prop type="conjClass" val="Suffix"/>
-         <prop type="derivedStem" val="B"/>
-         <prop type="derivedStemAug" val="Simple"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lexlabel" val="ad2"/>
-         <prop type="lemma" val="?ad-àa"/>
-         <prop type="gloss" val="tremble"/>
-      </lexeme>
       <lexeme id="Beja-arteiga-ktm">
          <prop type="conjClass" val="Prefix"/>
          <prop type="derivedStem" val="B"/>
@@ -564,7 +546,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-san">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="sanà"/>
+         <prop type="token-plural" val="sanà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="sàn"/>
@@ -573,7 +555,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-miitaat">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="miitàt"/>
+         <prop type="token-plural" val="miitàt"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="miitaàt"/>
@@ -582,7 +564,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-ragad">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="ragadà "/>
+         <prop type="token-plural" val="ragadà "/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="ragàd"/>
@@ -591,7 +573,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-bikkaar">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="bikkàr"/>
+         <prop type="token-plural" val="bikkàr"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="bikkàar"/>
@@ -600,7 +582,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-yaas">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="yàs"/>
+         <prop type="token-plural" val="yàs"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="yàas"/>
@@ -609,7 +591,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-bít">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="bità"/>
+         <prop type="token-plural" val="bità"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="bít"/>
@@ -618,7 +600,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-kitaab">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="kitàb"/>
+         <prop type="token-plural" val="kitàb"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="kitaàb"/>
@@ -627,7 +609,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-dírim">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="dirmà"/>
+         <prop type="token-plural" val="dirmà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="dírim"/>
@@ -636,7 +618,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-huus">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="huusà"/>
+         <prop type="token-plural" val="huusà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="huus"/>
@@ -645,7 +627,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-ginuuf">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="ginúf"/>
+         <prop type="token-plural" val="ginúf"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="ginuúf"/>
@@ -654,7 +636,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-kwa">
          <prop type="pluralClass" val="C"/>
-         <prop type="pluralForm" val="kwà"/>
+         <prop type="token-plural" val="kwà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="kwà"/>
@@ -663,7 +645,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-nde">
          <prop type="pluralClass" val="C"/>
-         <prop type="pluralForm" val="nde"/>
+         <prop type="token-plural" val="nde"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="[n]dé"/>
@@ -672,7 +654,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-gaw">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="gawà"/>
+         <prop type="token-plural" val="gawà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="gàw"/>
@@ -681,7 +663,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-heelay">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="heelayà"/>
+         <prop type="token-plural" val="heelayà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="heèlay"/>
@@ -690,7 +672,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-kaam">
          <prop type="pluralClass" val="B"/>
-         <prop type="pluralForm" val="kàm"/>
+         <prop type="token-plural" val="kàm"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="kaàm"/>
@@ -699,7 +681,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-baaba">
          <prop type="pluralClass" val="C"/>
-         <prop type="pluralForm" val="baabà"/>
+         <prop type="token-plural" val="baabà"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="baabà"/>
@@ -708,7 +690,7 @@
       </lexeme>
       <lexeme id="Beja-arteiga-ab">
          <prop type="pluralClass" val="A"/>
-         <prop type="pluralForm" val="aba"/>
+         <prop type="token-plural" val="aba"/>
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="?àb"/>
@@ -761,16 +743,16 @@
          <prop type="lexlabel" val="tam"/>
          <prop type="pos" val="Verb"/>
       </lexeme>
-      <lexeme id="newlex_dlb">
-         <prop type="gloss" val="[x]"/>
+      <lexeme id="mlex_DERVSTEMFORM-dlb">
+         <prop type="gloss" val="buy"/>
          <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
+         <prop type="lemma" val="dilib"/>
          <prop type="lexlabel" val="dlb"/>
       </lexeme>
-      <lexeme id="newlex_ad">
-         <prop type="gloss" val="[x]"/>
+      <lexeme id="Beja-arteiga-ad">
+         <prop type="gloss" val="tremble"/>
          <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
+         <prop type="lemma" val="?ad"/>
          <prop type="lexlabel" val="ad"/>
       </lexeme>
       <lexeme id="mlex_IMPTVROOTCLASSES-bid">
@@ -785,18 +767,6 @@
          <prop type="lemma" val="[y]"/>
          <prop type="lexlabel" val="cbl"/>
       </lexeme>
-      <lexeme id="mlex_DERVSTEMFORM-sa_">
-         <prop type="gloss" val="[x]"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
-         <prop type="lexlabel" val="sa_"/>
-      </lexeme>
-      <lexeme id="mlex_DERVSTEMFORM-_oos">
-         <prop type="gloss" val="[x]"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
-         <prop type="lexlabel" val="_oos"/>
-      </lexeme>
       <lexeme id="mlex_DERVSTEMFORM-swy">
          <prop type="gloss" val="[x]"/>
          <prop type="lang" val="Beja-arteiga"/>
@@ -808,18 +778,6 @@
          <prop type="lang" val="Beja-arteiga"/>
          <prop type="lemma" val="[y]"/>
          <prop type="lexlabel" val="gnf"/>
-      </lexeme>
-      <lexeme id="mlex_DERVSTEMFORM-_eegrim">
-         <prop type="gloss" val="[x]"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
-         <prop type="lexlabel" val="_eegrim"/>
-      </lexeme>
-      <lexeme id="mlex_DERVSTEMFORM-_ibaab">
-         <prop type="gloss" val="[x]"/>
-         <prop type="lang" val="Beja-arteiga"/>
-         <prop type="lemma" val="[y]"/>
-         <prop type="lexlabel" val="_ibaab"/>
       </lexeme>
       <lexeme id="mlex_DERVSTEMFORM-as">
          <prop type="gloss" val="[x]"/>
@@ -846,36 +804,36 @@
          <common-properties>
             <prop type="lang" val="Beja-arteiga"/>
             <prop type="mulabel" val="POSTPOSITION"/>
-            <prop type="pos" val="Postposition"/>
+            <prop type="pos" val="Noun"/>
          </common-properties>
          <termcluster>
             <term id="ID0fa93cec-ea65-41e2-acbf-e58b340cd5ea">
-               <prop type="postposition" val="Ablative"/>
+               <prop type="case" val="Ablative"/>
                <prop type="postpositionClass" val="A"/>
                <prop type="token" val="⊤"/>
             </term>
             <term id="ID20596741-6b25-4d31-8504-197ae8c095b0">
-               <prop type="postposition" val="Equative"/>
+               <prop type="case" val="Equative"/>
                <prop type="postpositionClass" val="A"/>
                <prop type="token" val="-`t"/>
             </term>
             <term id="ID2fe834a6-5cc0-465a-9929-914dd73464a8">
-               <prop type="postposition" val="Ablative"/>
+               <prop type="case" val="Ablative"/>
                <prop type="postpositionClass" val="B"/>
                <prop type="token" val="-s-"/>
             </term>
             <term id="ID37db4501-c2c5-4902-b702-2cbb9f111315">
-               <prop type="postposition" val="Locative"/>
+               <prop type="case" val="Locative"/>
                <prop type="postpositionClass" val="A"/>
                <prop type="token" val="-`b"/>
             </term>
             <term id="ID82a9bc76-67f6-4efe-a278-5cb7a76acb5b">
-               <prop type="postposition" val="Equative"/>
+               <prop type="case" val="Equative"/>
                <prop type="postpositionClass" val="B"/>
                <prop type="token" val="- t-"/>
             </term>
             <term id="IDf71a8f6c-129f-4796-9256-4fb5022c63d5">
-               <prop type="postposition" val="Locative"/>
+               <prop type="case" val="Locative"/>
                <prop type="postpositionClass" val="B"/>
                <prop type="token" val="⊤"/>
             </term>
@@ -1506,126 +1464,151 @@
          <termcluster>
             <term id="ID05b05743-4d0b-4434-a3c3-b8b7191e7874">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="finìk-a"/>
                <prop type="lexlabel" val="fnk"/>
             </term>
             <term id="ID0b684105-11c3-420d-a79f-e81baa8aff75">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="raat-àa"/>
                <prop type="lexlabel" val="raat"/>
             </term>
             <term id="ID1296df25-bb94-45e8-86fb-f498a3ba4d0d">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="šuum-àa"/>
                <prop type="lexlabel" val="suum"/>
             </term>
             <term id="ID1a6ea4b0-9d52-4405-b3ab-51afeb9c239e">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-àa"/>
                <prop type="lexlabel" val="tam"/>
             </term>
             <term id="ID239c8c0a-cb73-4260-b11d-45926935d36f">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="rih-àa"/>
                <prop type="lexlabel" val="rih"/>
             </term>
             <term id="ID33f4ddef-9013-4a47-9aa8-25c9f97bd8e7">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="liw-à"/>
                <prop type="lexlabel" val="liw"/>
             </term>
             <term id="ID56636639-baa4-49ec-b924-198d786ef2a4">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="kwibìs-a"/>
                <prop type="lexlabel" val="kwbs"/>
             </term>
             <term id="ID6dff7845-d576-4509-9b50-57da45874acf">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="dibìl-a"/>
                <prop type="lexlabel" val="dbl"/>
             </term>
             <term id="ID70af3f5e-ea6f-4743-b282-632fb97acc44">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="nuun-àa"/>
                <prop type="lexlabel" val="nuun"/>
             </term>
             <term id="ID70ff582f-a26a-466a-b0a0-4ade1d6952a4">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="kileew-àa"/>
                <prop type="lexlabel" val="kileew"/>
             </term>
             <term id="ID8dc81f83-f3e0-4d5b-a101-c5c2e19f6755">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCY"/>
                <prop type="token" val="digiì-a"/>
                <prop type="lexlabel" val="dgy"/>
             </term>
             <term id="ID8e8872f8-ee38-428c-9799-a3c0605c93e5">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="dilìb-a"/>
                <prop type="lexlabel" val="dlb"/>
             </term>
             <term id="ID90450263-2fea-4ff9-9051-f7cf5272ddf7">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="dir-à"/>
                <prop type="lexlabel" val="dir"/>
             </term>
             <term id="ID94bec394-0917-45e4-a992-09fcdf226840">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="bis-à"/>
                <prop type="lexlabel" val="bid"/>
             </term>
             <term id="ID9f55716d-b4ac-411e-ad07-941e48849386">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="kitìb-a"/>
                <prop type="lexlabel" val="ktb"/>
             </term>
             <term id="IDa222d494-40ff-4551-b771-4e54b69a8bc2">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?ad-àa"/>
                <prop type="lexlabel" val="ad"/>
             </term>
             <term id="IDa838bc8c-cd1b-4ce0-93ba-c715dabba38f">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="rib-à"/>
                <prop type="lexlabel" val="rib"/>
             </term>
             <term id="IDb05a3acf-b9ef-41ac-b6dd-770cdb92113e">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCC"/>
                <prop type="token" val="kitìm-a"/>
                <prop type="lexlabel" val="ktm"/>
             </term>
             <term id="IDbd1fdc94-3b27-4f23-ab7f-ccaa46c16c0c">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="min-à"/>
                <prop type="lexlabel" val="min"/>
             </term>
             <term id="IDc7b0c748-923c-4cd0-8e1b-4eca6acc8331">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CVC"/>
                <prop type="token" val="díf-a"/>
                <prop type="lexlabel" val="dif"/>
             </term>
             <term id="IDc8c71edd-2840-40ba-8566-a9ca1edc2d69">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCY"/>
                <prop type="token" val="miriì-a"/>
                <prop type="lexlabel" val="mry"/>
             </term>
             <term id="IDca2a1031-e9b3-4c43-a861-9a55cb2496d5">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="gwa?-àa"/>
                <prop type="lexlabel" val="gwa"/>
             </term>
             <term id="IDcf6ee81a-8be1-4f95-9fd1-c143594323cc">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCY"/>
                <prop type="token" val="šifiì-a"/>
                <prop type="lexlabel" val="sfy"/>
             </term>
             <term id="IDed5c4228-6681-42d5-b9d9-227b9b42313c">
                <prop type="conjClass" val="Suffix"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="doob-àa"/>
                <prop type="lexlabel" val="doob"/>
             </term>
             <term id="IDef6d0eb3-b794-40d8-9246-a5b91b133162">
                <prop type="conjClass" val="Prefix"/>
+               <prop type="rootClass" val="CCY"/>
                <prop type="token" val="firiì-a"/>
                <prop type="lexlabel" val="fry"/>
             </term>
@@ -3526,11 +3509,13 @@
             <prop type="lang" val="Beja"/>
             <prop type="mulabel" val="PRO"/>
             <prop type="pdgmType" val="Structure"/>
+            <prop type="proClass" val="ProComp"/>
             <prop type="pos" val="Pronoun"/>
          </common-properties>
          <termcluster>
             <term id="ID1eee9d53-cafc-4450-a980-aa424a0d8f46">
-               <prop type="case" val="Object-Arteiga"/>
+               <prop type="case" val="Object"/>
+               <prop type="langVar" val="Arteiga"/>
                <prop type="number" val="Singular"/>
                <prop type="token" val="⊤"/>
             </term>
@@ -4972,6 +4957,7 @@
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="tam"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-am-"/>
                <prop type="token-gloss" val="be eaten"/>
             </term>
@@ -5016,6 +5002,7 @@
                <prop type="derivedStem" val="S2"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="hamasee"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="hamašee-šiiš-"/>
                <prop type="token-gloss" val="cause to blind"/>
             </term>
@@ -5042,6 +5029,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="kileew"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="kileew-"/>
                <prop type="token-gloss" val="guard, take prisoner"/>
             </term>
@@ -5059,6 +5047,7 @@
                <prop type="derivedStem" val="SM"/>
                <prop type="derivedStemAug" val="Intensive"/>
                <prop type="lexlabel" val="doob"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="daab-sam-"/>
                <prop type="token-gloss" val="run together"/>
             </term>
@@ -5112,6 +5101,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="suum"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="šuum-"/>
                <prop type="token-gloss" val="enter"/>
             </term>
@@ -5120,6 +5110,7 @@
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="raat"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="raat-am-"/>
                <prop type="token-gloss" val="be asked, ask oneself"/>
             </term>
@@ -5164,6 +5155,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="tam"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-"/>
                <prop type="token-gloss" val="eat"/>
             </term>
@@ -5199,6 +5191,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="gwa"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="gwa?-"/>
                <prop type="token-gloss" val="drink"/>
             </term>
@@ -5207,6 +5200,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="doob"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="doob-"/>
                <prop type="token-gloss" val="marry"/>
             </term>
@@ -5215,6 +5209,7 @@
                <prop type="derivedStem" val="SM"/>
                <prop type="derivedStemAug" val="Intensive"/>
                <prop type="lexlabel" val="yak"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="yak-sam-"/>
                <prop type="token-gloss" val="rise up against one another"/>
             </term>
@@ -5223,6 +5218,7 @@
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="kadaw"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="kadaw-š-"/>
                <prop type="token-gloss" val="jingle, rattle (tr.)"/>
             </term>
@@ -5240,6 +5236,7 @@
                <prop type="derivedStem" val="SM"/>
                <prop type="derivedStemAug" val="Intensive"/>
                <prop type="lexlabel" val="adum"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?adum-sam-"/>
                <prop type="token-gloss" val="speak with one another"/>
             </term>
@@ -5266,6 +5263,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="raat"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="raat-"/>
                <prop type="token-gloss" val="ask"/>
             </term>
@@ -5291,7 +5289,7 @@
                <prop type="conjClass" val="Prefix"/>
                <prop type="derivedStem" val="R"/>
                <prop type="derivedStemAug" val="Simple"/>
-               <prop type="lexlabel" val="sa?"/>
+               <prop type="lexlabel" val="sa"/>
                <prop type="rootClass" val="CVC"/>
                <prop type="token" val="-sa?-"/>
                <prop type="token-gloss" val="sit (down) "/>
@@ -5301,6 +5299,7 @@
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="hug"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="hug-am-"/>
                <prop type="token-gloss" val="be ground"/>
             </term>
@@ -5317,7 +5316,7 @@
                <prop type="conjClass" val="Suffix"/>
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
-               <prop type="lexlabel" val="?oos"/>
+               <prop type="lexlabel" val="oos"/>
                <prop type="token" val="?ooš-iš-"/>
                <prop type="token-gloss" val="make ... urinate"/>
             </term>
@@ -5335,6 +5334,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="nuun"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="nuun-"/>
                <prop type="token-gloss" val="hand over"/>
             </term>
@@ -5388,6 +5388,7 @@
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="tam"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-s-"/>
                <prop type="token-gloss" val="feed"/>
             </term>
@@ -5396,6 +5397,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="rih"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="rih-"/>
                <prop type="token-gloss" val="see"/>
             </term>
@@ -5440,6 +5442,7 @@
                <prop type="derivedStem" val="S2"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="tam"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-siis-"/>
                <prop type="token-gloss" val="cause to feed"/>
             </term>
@@ -5475,7 +5478,7 @@
                <prop type="conjClass" val="Prefix"/>
                <prop type="derivedStem" val="T"/>
                <prop type="derivedStemAug" val="Intensive"/>
-               <prop type="lexlabel" val="dlb"/>
+               <prop type="lexlabel" val="dbl"/>
                <prop type="rootClass" val="CCC"/>
                <prop type="token" val="-t-dabaal-"/>
                <prop type="token-gloss" val="be collected-2"/>
@@ -5575,6 +5578,7 @@
                <prop type="derivedStem" val="SM"/>
                <prop type="derivedStemAug" val="Intensive"/>
                <prop type="lexlabel" val="tam"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="tam-sam-"/>
                <prop type="token-gloss" val="eat one another, eat together"/>
             </term>
@@ -5591,7 +5595,8 @@
                <prop type="conjClass" val="Suffix"/>
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
-               <prop type="lexlabel" val="?eegrim"/>
+               <prop type="lexlabel" val="eegrim"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?eegrim-am-"/>
                <prop type="token-gloss" val="turn grey"/>
             </term>
@@ -5618,6 +5623,7 @@
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="reeh"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="reeh-am-"/>
                <prop type="token-gloss" val="rest oneself, be made at ease"/>
             </term>
@@ -5653,6 +5659,7 @@
                <prop type="derivedStem" val="M"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="fid"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="fid-am-"/>
                <prop type="token-gloss" val="blow one's nose"/>
             </term>
@@ -5706,6 +5713,7 @@
                <prop type="derivedStem" val="B"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="ad"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?ad-"/>
                <prop type="token-gloss" val="tremble"/>
             </term>
@@ -5740,7 +5748,8 @@
                <prop type="conjClass" val="Suffix"/>
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
-               <prop type="lexlabel" val="?ibaab"/>
+               <prop type="lexlabel" val="ibaab"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?ibaab-s-"/>
                <prop type="token-gloss" val="send on a journey"/>
             </term>
@@ -5776,6 +5785,7 @@
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="rih"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="rih-is-"/>
                <prop type="token-gloss" val="make ... see show"/>
             </term>
@@ -5793,6 +5803,7 @@
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="as"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="?as-is-"/>
                <prop type="token-gloss" val="make ... shut"/>
             </term>
@@ -5801,6 +5812,7 @@
                <prop type="derivedStem" val="S"/>
                <prop type="derivedStemAug" val="Simple"/>
                <prop type="lexlabel" val="hamas"/>
+               <prop type="rootClass" val="Invar"/>
                <prop type="token" val="hamašee-š-"/>
                <prop type="token-gloss" val="blind"/>
             </term>

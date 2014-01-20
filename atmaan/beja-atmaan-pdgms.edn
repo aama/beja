@@ -72,7 +72,7 @@
   :fay {:gloss "[x]", :lemma "[y]", }
   :faya {:conjClass :Irregular, :gloss "be", :lemma "faya", :pos :Verb}
   :fidig {:stemPattern :CiCiC-, :gloss "open"}
-  :fir {:conjClass :Prefix, :gloss "go out", :lemma "fira", :pos :Verb}
+  :firH {:conjClass :Prefix, :gloss "go out", :lemma "fira", :pos :Verb}
   :fiyak {:conjClass :Prefix, :gloss "carry", :lemma "fiyaka", :pos :Verb}
   :gad {:lemma "gáda", :gloss "stand"}
   :gid {:lemma "", :gloss "throw"}
@@ -99,12 +99,12 @@
   :mir {:stemPattern :CiC-, :gloss "prepare"}
   :miriy {:conjClass :Prefix, :gloss "find", :lemma "miriy", :pos :Verb}
   :naw {:conjClass :Prefix, :gloss "fail", :lemma "nawa", :pos :Verb}
-  :ni-di {:conjClass :Prefix, :gloss "say", :lemma "ni ~ di", :pos :Verb}
+  :ni ~ di {:conjClass :Prefix, :gloss "say", :lemma "ni ~ di", :pos :Verb}
   :raat {:gloss "[x]", :lemma "[y]", }
   :raataa {:conjClass :Suffix, :gloss "ask", :lemma "raataa", :pos :Verb}
   :rib {:conjClass :Prefix, :gloss "refuse", :lemma "rib", :pos :Verb}
   :rih {:conjClass :Suffix, :gloss "see", :lemma "rhaa", :pos :Verb}
-  :sa {:lemma "sá’a", :gloss "sit"}
+  :sa` {:lemma "sá’a", :gloss "sit"}
   :sak {:conjClass : , :gloss "work", :lemma " ", :pos :Verb}
   :sdd {:lemma "", :gloss "peel"}
   :sibib {:conjClass :Prefix, :gloss "look", :lemma "šibib", :pos :Verb}
@@ -117,14 +117,14 @@
   :uhi {:stemPattern :CiC-, :gloss "let"}
   :waaw {:conjClass : , :gloss "weep", :lemma " ", :pos :Verb}
   :yak {:conjClass :Prefix, :gloss "start", :lemma "yak-", :pos :Verb}
-  :ústaaz {:gloss "teacher", :lemma "ústaaz (pl. ustáz)", }
+  :ústaaz (pl. ustáz) {:gloss "teacher", :lemma "ústaaz (pl. ustáz)", }
   :šibiba {:conjClass :Prefix, :gloss "look", :lemma "šibiba", :pos :Verb}
 }
 :lxterms #{
     {:label "beja_W-VPrefCiCHNegPast-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -672,7 +672,7 @@
     {:label "beja_W-VPrefAffCiCHImprtv"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :person :Person2,
 	    :polarity :Affirmative,
 	    :pos :Verb,
@@ -732,7 +732,7 @@
     {:label "beja_W-VPrefCiCHAffImprtv-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :person :Person2,
 	    :polarity :Affirmative,
 	    :pos :Verb,
@@ -1117,8 +1117,8 @@
 	    :lexeme :diy,
 	    :pos :Verb,
 	    :tam :Past}
-    :terms [[:gender, :number, :person, :token-1, :token-2, :token]  ;; schema
-	    [:Masc, :Singular, :Person3, "ídí", "íni", "ídí ~  íni"],
+    :terms [[:gender, :number, :person, :token-1, :token-2, :token, :token]  ;; schema
+	    [:Masc, :Singular, :Person3, "ídí", "íni", "ídí ~  íni", "ídí ~  íni"],
 	    [:Common, :Plural, :Person3, "ídiin", "éen", "ídiin ~  éen"],
 	    [:Common, :Plural, :Person1, "nídi", "níni", "nídi ~  níni"],
 	    [:Common, :Singular, :Person1, "ádi", "áni", "ádi ~  áni"],
@@ -1211,7 +1211,7 @@
     {:label "beja_W-VPrefNegCiCHImprtv"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :person :Person2,
 	    :polarity :Negative,
 	    :pos :Verb,
@@ -1786,7 +1786,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :nonFiniteForm :Participle,
 	    :number :Common,
 	    :person :Common,
@@ -1814,7 +1814,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :number :Singular,
 	    :person :Person1,
 	    :polarity :Negative,
@@ -2485,7 +2485,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :nonFiniteForm :Participle,
 	    :number :Common,
 	    :person :Common,
@@ -2553,7 +2553,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :number :Singular,
 	    :person :Person1,
 	    :polarity :Affirmative,
@@ -2602,7 +2602,7 @@
     {:label "beja_W-VPrefCiCHAffPres-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -2701,7 +2701,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :number :Singular,
 	    :person :Person1,
 	    :polarity :Negative,
@@ -3079,7 +3079,7 @@
     {:label "beja_W-VPrefNegCiCHAor"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -3109,7 +3109,7 @@
     {:label "beja_W-VPrefAffCiCHAor"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -3255,7 +3255,7 @@
     {:label "beja_W-VPrefNegCiCHPast"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -3318,7 +3318,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Masc,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :nonFiniteForm :Participle,
 	    :number :Common,
 	    :person :Common,
@@ -3682,18 +3682,18 @@
 	    :pos :Verb,
 	    :pdgmType :TenseAspOverview}
     :terms [[:conjClass, :number, :tam, :token-aux, :token-main, :token]  ;; schema
-	    [:Prefix, :Plural, :Future, :néeyad, "níyaad ", "níyaad    néeyad"],
-	    [:Prefix, :Plural, :Past, :_NULL, "nídi", "nídi   _NULL"],
-	    [:Prefix, :Singular, :Present, :_NULL, "ándi ", "ándi    _NULL"],
-	    [:Prefix, :Singular, :Future, :ándi, "íyaad ", "íyaad    ándi"],
-	    [:Prefix, :Singular, :Past, :_NULL, "ádi ", "ádi    _NULL"],
-	    [:Suffix, :Plural, :Past, :_NULL, "yákna", "yákna   _NULL"],
-	    [:Suffix, :Singular, :Future, :ándi, "yáki ", "yáki    ándi"],
-	    [:Suffix, :Plural, :Future, :néeyad, "yákni ", "yákni    néeyad"],
-	    [:Prefix, :Plural, :Present, :_NULL, "néeyad", "néeyad   _NULL"],
-	    [:Suffix, :Singular, :Past, :_NULL, "yakán ", "yakán    _NULL"],
-	    [:Suffix, :Singular, :Present, :_NULL, "yakáni ", "yakáni    _NULL"],
-	    [:Suffix, :Plural, :Present, :_NULL, "yáknay", "yáknay   _NULL"]]
+	    [:Prefix, :Plural, :Future, "néeyad", "níyaad ", "níyaad    néeyad"],
+	    [:Prefix, :Plural, :Past, "_NULL", "nídi", "nídi   _NULL"],
+	    [:Prefix, :Singular, :Present, "_NULL", "ándi ", "ándi    _NULL"],
+	    [:Prefix, :Singular, :Future, "ándi", "íyaad ", "íyaad    ándi"],
+	    [:Prefix, :Singular, :Past, "_NULL", "ádi ", "ádi    _NULL"],
+	    [:Suffix, :Plural, :Past, "_NULL", "yákna", "yákna   _NULL"],
+	    [:Suffix, :Singular, :Future, "ándi", "yáki ", "yáki    ándi"],
+	    [:Suffix, :Plural, :Future, "néeyad", "yákni ", "yákni    néeyad"],
+	    [:Prefix, :Plural, :Present, "_NULL", "néeyad", "néeyad   _NULL"],
+	    [:Suffix, :Singular, :Past, "_NULL", "yakán ", "yakán    _NULL"],
+	    [:Suffix, :Singular, :Present, "_NULL", "yakáni ", "yakáni    _NULL"],
+	    [:Suffix, :Plural, :Present, "_NULL", "yáknay", "yáknay   _NULL"]]
     }
     {:label "beja_W-VPrefCiCiyNegAor-miriy"
     :note "Wedekind-etal2007 p. 111"
@@ -3735,7 +3735,7 @@
 	    [:siniy, "síniya", "to be doing", "wait"],
 	    [:aha, "háya", "to do at once", "take"],
 	    [:diy, "díya", "to mean to do", "say"],
-	    [:sa, "sá’a", "to conitnue to do", "sit"],
+	    [:sa`, "sá’a", "to conitnue to do", "sit"],
 	    [:d`iy, "d’íya", "to do completely", "put"],
 	    [:gad, "gáda", "to be about to do", "stand"]]
     }
@@ -3852,7 +3852,7 @@
     {:label "beja_W-VPrefCiCHAffAor-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -4006,7 +4006,7 @@
     {:label "beja_W-VPrefCiCHNegAor-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -4110,7 +4110,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Common,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :nonFiniteForm :NominalAction,
 	    :polarity :U,
 	    :pos :Verb,
@@ -4605,7 +4605,7 @@
     {:label "beja_W-VPrefAffCiCHPast"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -4942,18 +4942,18 @@
 	    :person :Person1,
 	    :pos :Verb}
     :terms [[:conjClass, :number, :tam, :token-aux, :token-main, :token]  ;; schema
-	    [:Suffix, :Singular, :Past, :_NULL, "yakán ", "yakán    _NULL"],
-	    [:Suffix, :Plural, :Past, :_NULL, "yákna", "yákna   _NULL"],
-	    [:Suffix, :Plural, :Present, :_NULL, "yáknay", "yáknay   _NULL"],
-	    [:Prefix, :Singular, :Future, :ándi, "íyaad ", "íyaad    ándi"],
-	    [:Suffix, :Singular, :Present, :_NULL, "yakáni ", "yakáni    _NULL"],
-	    [:Prefix, :Plural, :Future, :néeyad, "níyaad ", "níyaad    néeyad"],
-	    [:Prefix, :Singular, :Past, :_NULL, "ádi ", "ádi    _NULL"],
-	    [:Suffix, :Plural, :Future, :néeyad, "yákni ", "yákni    néeyad"],
-	    [:Prefix, :Singular, :Present, :_NULL, "ándi ", "ándi    _NULL"],
-	    [:Suffix, :Singular, :Future, :ándi, "yáki ", "yáki    ándi"],
-	    [:Prefix, :Plural, :Present, :_NULL, "néeyad", "néeyad   _NULL"],
-	    [:Prefix, :Plural, :Past, :_NULL, "nídi", "nídi   _NULL"]]
+	    [:Suffix, :Singular, :Past, "_NULL", "yakán ", "yakán    _NULL"],
+	    [:Suffix, :Plural, :Past, "_NULL", "yákna", "yákna   _NULL"],
+	    [:Suffix, :Plural, :Present, "_NULL", "yáknay", "yáknay   _NULL"],
+	    [:Prefix, :Singular, :Future, "ándi", "íyaad ", "íyaad    ándi"],
+	    [:Suffix, :Singular, :Present, "_NULL", "yakáni ", "yakáni    _NULL"],
+	    [:Prefix, :Plural, :Future, "néeyad", "níyaad ", "níyaad    néeyad"],
+	    [:Prefix, :Singular, :Past, "_NULL", "ádi ", "ádi    _NULL"],
+	    [:Suffix, :Plural, :Future, "néeyad", "yákni ", "yákni    néeyad"],
+	    [:Prefix, :Singular, :Present, "_NULL", "ándi ", "ándi    _NULL"],
+	    [:Suffix, :Singular, :Future, "ándi", "yáki ", "yáki    ándi"],
+	    [:Prefix, :Plural, :Present, "_NULL", "néeyad", "néeyad   _NULL"],
+	    [:Prefix, :Plural, :Past, "_NULL", "nídi", "nídi   _NULL"]]
     }
     {:label "beja_W-VPrefCiCaCNomAct"
     :note "Wedekind-etal2007 p. 119"
@@ -5264,7 +5264,7 @@
     {:label "beja_W-VPrefCiCHAffPast-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -5562,7 +5562,7 @@
     {:label "beja_W-VPrefNegCiCHPres"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -5848,7 +5848,7 @@
     {:label "beja_W-VPrefAffCiCHPres"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Affirmative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
@@ -5893,7 +5893,7 @@
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
 	    :gender :Masc,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :nonFiniteForm :Participle,
 	    :number :Common,
 	    :person :Common,
@@ -5950,7 +5950,7 @@
     {:label "beja_W-VPrefCiCHNegPres-fir"
     :note "Wedekind-etal2007 p. 121"
     :common {:conjClass :Prefix,
-	    :lexeme :fir,
+	    :lexeme :firH,
 	    :polarity :Negative,
 	    :pos :Verb,
 	    :rootClass :CiCH,
